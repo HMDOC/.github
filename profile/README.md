@@ -1,12 +1,10 @@
-## Hi there 👋
+# 1GDT
 
-<!--
+This `organization` contains the `code` that was made in the class `(420-412-MV)` at `Cegep Marie-Victorin`.
 
-**Here are some ideas to get you started:**
+POWERED BY [Achraf Groiez](https://github.com/AchrafGroiez), [Davide Fuoco](https://github.com/DF195) and [Quoc Dung Tran](https://github.com/QuocDungTran380).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+```
+© GFMD. All Rights Reserved.
+```
+
